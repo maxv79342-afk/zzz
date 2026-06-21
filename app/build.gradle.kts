@@ -72,6 +72,5 @@ dependencies {
 
     implementation(libs.kotlinx.coroutines.android)
     implementation(libs.datastore.preferences)
-    implementation(libs.markdown.compose)
     implementation(libs.accompanist.systemuicontroller)
 }
